@@ -1,6 +1,7 @@
 # Pewlett-Hackard-Analysis
 
 ## Overview of the Analysis
+
 The purpose of this analysis was to understand the succession planning required for HR and management to effectively manage the transition of employees that will be exiting the workforce and creating a plan to ensure the knowledge transfer occurs through a mentorship program to the next generation of employees to begin knowledge transfer. 
 
 ## Results
@@ -13,11 +14,9 @@ The purpose of this analysis was to understand the succession planning required 
 ![image](https://user-images.githubusercontent.com/115019829/203452154-a99565d9-1333-4cad-876b-b7f5bc470ed9.png)
 
 * 1,549 candidates would be eligible for the mentorship program. 
-*![image](https://user-images.githubusercontent.com/115019829/203468421-c8b713b4-20fb-40e5-9a82-803f842dd571.png)
 
 *![image](https://user-images.githubusercontent.com/115019829/203468421-c8b713b4-20fb-40e5-9a82-803f842dd571.png)
 
-*  Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
 ## Summary 
 
@@ -30,3 +29,5 @@ The purpose of this analysis was to understand the succession planning required 
 ![image](https://user-images.githubusercontent.com/115019829/203455038-188691a5-43a9-4fb8-ac2c-81f3230b46fa.png)
 
 * We would need to further analyze the salaries for retirement-ready and mentor-eligible candidates to fill the gap of retirees. Due to the massive amount of knowledge transfer required, there would be overlap in cost for duplicate titles for a period of time during transition / handover periods. 
+
+* To ensure we can manage and maintain the exit, rather than be overwhelmed by it, we would want to build a query for the number of employees that will begin retiring at 65 and how many candidates would be eligible for a short-term retention or voluntary retirement program to ease the burden of mass exits from the company and ensure we are able to properly filter candidates and promotions accordingly.
